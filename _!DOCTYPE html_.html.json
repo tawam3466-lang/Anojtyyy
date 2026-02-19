@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+        <title>First Website</title>
+            <!-- ربط ملف الـ CSS -->
+                <link rel="stylesheet" href="style.css">
+                </head>
+                <body>
+
+                    <h1 class="Happy__Birthday">Happy Birthday!</h1>
+
+                    </body>
+                    </html>
+                    
